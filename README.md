@@ -7,5 +7,6 @@ Try again. This is from RStudio
 
 Line added from github.
 
-BAck to line added 7:22 pm in RStudio
+Back to line added 7:22 pm in RStudio
 
+Test of SSH
